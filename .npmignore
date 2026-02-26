@@ -1,3 +1,28 @@
+# Source & config (already have these)
 src/
 tsconfig.json
 *.test.ts
+
+# Test coverage & jest config
+coverage/
+jest.config.*
+*.spec.ts
+
+# Git files (no need in the npm package)
+.gitignore
+.git/
+
+# Editor & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# npm pack previews
+*.tgz
+
+# CI/CD (if you add GitHub Actions later)
+.github/
