@@ -183,6 +183,9 @@ Contributions are welcome! If you find missing or incorrect data, or want to sug
 
 ## Changelog
 
+### v1.2.0
+- Compressed locations.json from 1.95MB to 364KB (~81% size reduction)
+
 ### v1.1.0
 - Improved TypeScript types
 
