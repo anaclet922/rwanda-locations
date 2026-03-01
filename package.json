@@ -1,6 +1,6 @@
 {
   "name": "rwanda-locations",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Rwanda administrative locations: provinces, districts, sectors, cells, and villages",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
